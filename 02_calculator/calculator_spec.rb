@@ -1,7 +1,7 @@
 # In this problem we are going to make a calculator. 
 
 # Remember to create the file!
-require "calculator.rb"
+require "./calculator.rb"
 
 # #add takes two parameters and adds them
 describe "add" do
