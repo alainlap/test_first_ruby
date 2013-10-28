@@ -18,7 +18,7 @@ require "hello.rb"
 describe "the hello function" do
   # neither is #20,
   it "says hello" do
-    # but this is the important part. 
+    # but this is the important part.
     # Line #24 is saying: if we call the method hello, what it returns should be equal to "Hello!"
     # If that's not the case, this is a failing test.
     hello.should == "Hello!"
