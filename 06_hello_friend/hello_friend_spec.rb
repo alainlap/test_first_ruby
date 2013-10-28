@@ -1,4 +1,4 @@
-require "friend"
+require "./friend"
 
 describe Friend do
 
